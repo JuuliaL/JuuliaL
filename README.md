@@ -5,7 +5,7 @@
 
 I'm a beginner bug hunter :bug:
 
-I’m currently working on improving my testing skills.
+I’m currently working on improving my skills.
 
 <!--
 **JuuliaL/JuuliaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
