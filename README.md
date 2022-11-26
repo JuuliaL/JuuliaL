@@ -3,7 +3,7 @@
 
 ### Hi, I'm Juulia :raised_hand_with_fingers_splayed:
 
-I'm a beginner bug hunter :bug:
+I'm naturally curious :smile_cat:
 
 I’m currently working on improving my skills.
 
